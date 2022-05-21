@@ -1,3 +1,5 @@
+<img src="avatar.png" width="150px" align="left">
+
 # Denis Kuznetsov – Денис Кузнецов
 
 ### Junior Frontend Developer (26 years old)
